@@ -1,6 +1,6 @@
 import React from 'react';
 import image from "../assets/img/event/event 1.png"
-import style from "../dist/css/main.css"
+import style from "../assets/css/style.css"
 
 const EventPage = () => {
   return (
